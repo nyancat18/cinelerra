@@ -1,0 +1,11 @@
+#!/bin/bash
+
+### Script para ejecutar Cinelerra-4.6.mod.noarch tras haberlo compilado ##
+### Autor: triceratops1 ###
+### E-mail: taringa.net/triceratops1 ###
+### Fecha de creacion: 07/04/2015 ###
+### Por el momento solo sirve en Fedora y Ubuntu ###
+
+echo "Ejecutando Cinelerra-4.6.mod.i686"
+
+./cinelerra-4.6.mod/bin/cinelerra
