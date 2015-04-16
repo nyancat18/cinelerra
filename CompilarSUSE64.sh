@@ -32,3 +32,6 @@ echo "configuración completa"
 make -j2
 
 echo "Cinelerra compilado, ahora ejecuta cinelerra.sh"
+
+
+sh cinelerra-4.6/cinelerra-4.6.mod/hola.sh

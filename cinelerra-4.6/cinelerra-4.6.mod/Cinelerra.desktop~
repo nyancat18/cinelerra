@@ -1,0 +1,13 @@
+[Desktop Entry]
+Name=Cinelerra
+GenericName=Movie Editor
+X-GNOME-FullName=Cinelerra Movie Editor
+Comment=Edit media to create movies
+Exec=/home/$USER/cinelerra/cinelerra-4.6/cinelerra-4.6.mod/bin/cinelerra
+Terminal=false
+Type=Application
+Icon=Cinelerra.png
+Categories=GNOME;GTK;AudioVideo;AudioVideoEditing;
+MimeType=application/vnd.flowblade-project;
+X-Ubuntu-Gettext-Domain=Flowblade
+Name[en_US]=flowblade
